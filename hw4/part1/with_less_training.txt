@@ -1,0 +1,27 @@
+plane horse  deer  deer
+[1,  2000] loss: 2.157
+[1,  4000] loss: 1.803
+[1,  6000] loss: 1.669
+[1,  8000] loss: 1.551
+[1, 10000] loss: 1.515
+[1, 12000] loss: 1.445
+[2,  2000] loss: 1.374
+[2,  4000] loss: 1.332
+[2,  6000] loss: 1.311
+[2,  8000] loss: 1.281
+[2, 10000] loss: 1.283
+[2, 12000] loss: 1.226
+Finished Training
+GroundTruth:    cat  ship  ship plane
+Predicted:    cat   car plane plane
+Accuracy of the network on the 10000 test images: 55 %
+Accuracy of plane : 56 %
+Accuracy of   car : 76 %
+Accuracy of  bird : 55 %
+Accuracy of   cat : 32 %
+Accuracy of  deer : 36 %
+Accuracy of   dog : 27 %
+Accuracy of  frog : 80 %
+Accuracy of horse : 65 %
+Accuracy of  ship : 69 %
+Accuracy of truck : 50 %
